@@ -8,7 +8,7 @@
     body {
         font-family: 'Arial', sans-serif;
         overflow-x: hidden;
-        background: linear-gradient(130deg, #994922, #ffd1dc, #ffe5f0);
+        background: linear-gradient(130deg, #994922, #9c4199, #ffe5f0);
         background-size: 400% 400%;
         animation: bgMove 12s ease infinite;
         color: #333;
